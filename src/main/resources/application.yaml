@@ -1,0 +1,12 @@
+app:
+  working-directory: ${java.io.tmpdir}/app
+
+spring:
+  social:
+    twitter:
+      app-id: h1hhCqQ1qTskbbMgszN7hDgLl
+      app-secret: kFadmXw5pitnyTsNRBeDYOLEUnvlVGXlGJnv8LopoK8kgdDSsp
+
+security:
+  basic:
+    enabled: false
